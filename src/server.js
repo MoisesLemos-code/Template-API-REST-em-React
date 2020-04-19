@@ -12,7 +12,6 @@ mongoose.connect('mongodb+srv://admin:2143@templatedb-7g2o6.mongodb.net/test?ret
   useUnifiedTopology: true,
   useCreateIndex: true
 });
-//mongodb+srv://admin:2143@cluster0-6zaoa.mongodb.net/acaialtj?retryWrites=true&w=majority
 
 
 app.use(express.json());
