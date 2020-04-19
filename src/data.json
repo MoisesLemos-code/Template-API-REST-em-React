@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "descricao": "Martelo",
+    "estoque": 15,
+    "valor": 20.00
+  },
+  {
+    "_id": 2,
+    "descricao": "Furadeira Eletrica",
+    "estoque": 5,
+    "valor": 90.00
+  },
+  {
+    "_id": 3,
+    "descricao": "Saco de Prego com 100 unidades",
+    "estoque": 250,
+    "valor": 20.00
+  },
+  {
+    "_id": 4,
+    "descricao": "Marreta de borracha",
+    "estoque": 75,
+    "valor": 35.00
+  },
+  {
+    "_id": 5,
+    "descricao": "Óculos protetor",
+    "estoque": 5,
+    "valor": 40.00
+  },
+  {
+    "_id": 6,
+    "descricao": "Carrinho de mão",
+    "estoque": 5,
+    "valor": 80.00
+  },
+  {
+    "_id": 7,
+    "descricao": "Luva protetora",
+    "estoque": 60,
+    "valor": 20.00
+  }
+]
